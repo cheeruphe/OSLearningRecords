@@ -67,13 +67,11 @@ D:\Program Files\Git
   ![image](https://user-images.githubusercontent.com/84122239/230711944-4dcad199-49be-45ff-9fed-c31e4a88a5db.png)
 
 
-![img](file:///C:\Users\Administrator\AppData\Local\Temp\ksohtml12804\wps1.jpg) 
-
 这个地方是空密码
+![image](https://user-images.githubusercontent.com/84122239/230711995-3dda29a9-0364-46dc-9b7a-beda62b1ceeb.png)
 
  
 
-![img](file:///C:\Users\Administrator\AppData\Local\Temp\ksohtml12804\wps2.jpg) 
 
  
 
@@ -87,21 +85,19 @@ Vs code中配置git：
 
 https://zhuanlan.zhihu.com/p/482203469
 
- 
+ ![image](https://user-images.githubusercontent.com/84122239/230712009-13678cf7-f43e-4eaf-9335-d834a93f52fb.png)
 
-![img](file:///C:\Users\Administrator\AppData\Local\Temp\ksohtml12804\wps3.jpg) 
-
- 
 
  
 
  
 
-![img](file:///C:\Users\Administrator\AppData\Local\Temp\ksohtml12804\wps4.jpg) 
+ ![image](https://user-images.githubusercontent.com/84122239/230712021-3e5526b6-6811-4aa4-961e-92f1df1f9e96.png)
 
- 
+![image](https://user-images.githubusercontent.com/84122239/230712025-6d10cd78-d46a-48e1-b335-f95c9f2d9fd2.png)
+![image](https://user-images.githubusercontent.com/84122239/230712042-4134898b-a055-4d71-9ae4-072337fc056a.png)
 
-![img](file:///C:\Users\Administrator\AppData\Local\Temp\ksohtml12804\wps5.jpg)![img](file:///C:\Users\Administrator\AppData\Local\Temp\ksohtml12804\wps6.jpg)![img](file:///C:\Users\Administrator\AppData\Local\Temp\ksohtml12804\wps7.jpg) 
+
 
 最后把这个多余的仓库给删了。
 
@@ -127,7 +123,7 @@ SSH地址：
 
 按照官方网站上的步骤，
 
-![img](file:///C:\Users\Administrator\AppData\Local\Temp\ksohtml12804\wps8.jpg) 
+![image](https://user-images.githubusercontent.com/84122239/230712094-7b9a4fde-dbb9-4f49-a7bd-cf7c8700a537.png)
 
  
 
@@ -144,17 +140,17 @@ Windows比较复杂一点
 https://blog.csdn.net/sichen1900/article/details/121909009
 
  
+![image](https://user-images.githubusercontent.com/84122239/230712114-61fe8bae-f024-4c32-96ca-42667474a934.png)
+![image](https://user-images.githubusercontent.com/84122239/230712124-3ef49465-0e99-4697-9fa9-5d969ca44df2.png)
+![image](https://user-images.githubusercontent.com/84122239/230712129-daefccad-a50a-4b23-ab6b-19c0a4c62c1b.png)
 
-![img](file:///C:\Users\Administrator\AppData\Local\Temp\ksohtml12804\wps9.jpg) 
+![image](https://user-images.githubusercontent.com/84122239/230712136-101cd119-ab03-40b8-b61c-541cede2b40e.png)
 
-![img](file:///C:\Users\Administrator\AppData\Local\Temp\ksohtml12804\wps10.jpg) 
 
-![img](file:///C:\Users\Administrator\AppData\Local\Temp\ksohtml12804\wps11.jpg)![img](file:///C:\Users\Administrator\AppData\Local\Temp\ksohtml12804\wps12.jpg) 
 
 一直超时，去掉vpn之后立刻就能用了。。。
 
-![img](file:///C:\Users\Administrator\AppData\Local\Temp\ksohtml12804\wps13.jpg) 
-
+![image](https://user-images.githubusercontent.com/84122239/230712144-bed06ce3-4919-498e-803a-df3d06e0e297.png)
 其实是已经安装好了，但是一直没有重启VSCode，重启之后就能用了。不重启没办法用。
 
  
@@ -187,55 +183,39 @@ https://www.runoob.com/rust/rust-setup.html
 
 **之前没有安装visual studio环境？？**
 
-![img](file:///C:\Users\Administrator\AppData\Local\Temp\ksohtml12804\wps14.jpg) 
-
-![img](file:///C:\Users\Administrator\AppData\Local\Temp\ksohtml12804\wps15.jpg) 
-
+![image](https://user-images.githubusercontent.com/84122239/230712169-7712e87c-7088-47dc-b962-227b69b7f3d6.png)
+![image](https://user-images.githubusercontent.com/84122239/230712177-229bb399-54f4-4db9-b7f3-7d4715f14911.png)
 CodeLLDB安装失败，需要手动安装。
 
 https://www.cnblogs.com/yinyunpan/p/16862583.html
 
-![img](file:///C:\Users\Administrator\AppData\Local\Temp\ksohtml12804\wps16.jpg) 
-
+![image](https://user-images.githubusercontent.com/84122239/230712182-ccbbe453-0a6b-45d8-8510-6372a6e19e42.png)
 手动安装成功，然后就能在输出地方不报错了。
 
-![img](file:///C:\Users\Administrator\AppData\Local\Temp\ksohtml12804\wps17.jpg) 
-
+![image](https://user-images.githubusercontent.com/84122239/230712192-0d6c3997-79dc-4f8a-8a1d-53e929e0b893.png)
  
 
 Rustling watch还是不能用
 
  
 
-![img](file:///C:\Users\Administrator\AppData\Local\Temp\ksohtml12804\wps18.jpg) 
-
- 
-
-用网页版的执行代码貌似直接就能用？？？[Repl.it](https://repl.it/github/rust-lang/rustlings)和Gitpod是两个网页版IDE。
-
-![img](file:///C:\Users\Administrator\AppData\Local\Temp\ksohtml12804\wps19.jpg) 
-
- 
-
+![image](https://user-images.githubusercontent.com/84122239/230712204-57df3787-862f-4b82-8d80-ca23f8e75aaa.png)
  
 
 
 
  
 
- 
-
-![img](file:///C:\Users\Administrator\AppData\Local\Temp\ksohtml12804\wps20.jpg) 
-
+![image](https://user-images.githubusercontent.com/84122239/230712227-c2a051e1-c34f-4c0b-81c9-7ace950237bf.png)
 重新安装了visual studio在developer powershell for vs 里面安装rustlings
 
-![img](file:///C:\Users\Administrator\AppData\Local\Temp\ksohtml12804\wps21.jpg) 
-
+![image](https://user-images.githubusercontent.com/84122239/230712230-932631ea-57d8-4e7b-b84b-e7c951b97429.png)
 应该是安装成果了，重新开了vpn
 
  
 
-![img](file:///C:\Users\Administrator\AppData\Local\Temp\ksohtml12804\wps22.jpg)![img](file:///C:\Users\Administrator\AppData\Local\Temp\ksohtml12804\wps23.jpg) 
+![image](https://user-images.githubusercontent.com/84122239/230712244-e0fa50b2-9d1c-4528-87c9-2d70e3170c5e.png)
+ ![image](https://user-images.githubusercontent.com/84122239/230712252-a0b77dd9-b104-4463-a7fb-042da9322eb3.png)
 
  环境搭建完成
 
